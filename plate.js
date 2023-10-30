@@ -1,5 +1,5 @@
 const axios = require('axios');
-const API_KEY = '8579a4168c00e09d615ff56c06ff73913c16708f'; //  Recognizer API
+const API_KEY = ''; //  Recognizer API
 const IMAGE_URL = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZOyq_QjHE09MOnaAZbCVqZ1sWoFZxlp7oQ';  // plate image
 
 const config = {
