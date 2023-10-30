@@ -1,5 +1,7 @@
 # plate-query
 Plate Query
 
-npm init -y
-npm install axios
+- npm init -y
+
+
+- npm install axios
