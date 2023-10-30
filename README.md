@@ -9,5 +9,6 @@ Plate Query
 
 - node plate.js
 
-![image](https://github.com/ReFo0/plate-query/assets/77904942/6b5079ff-557e-419d-8d5c-dce2f97b9606)
+![image](https://github.com/ReFo0/plate-query/assets/77904942/f1db04ff-86de-4e4d-bc8d-cc5eb38560a2)
+
 
