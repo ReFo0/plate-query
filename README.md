@@ -5,3 +5,6 @@ Plate Query
 
 
 - npm install axios
+
+
+- node plate.js
